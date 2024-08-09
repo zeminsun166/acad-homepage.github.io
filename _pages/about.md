@@ -12,12 +12,17 @@ redirect_from:
 
 近5年，以**第一作者获通信作者身份**在IEEE TMC、IEEE TVT、IEEE COMST、IEEE INFOCOM和IEEE ICC等高水平期刊和国际会议上发表相关学术论文10余篇；申请发明专利 6 项，已获授权 3 项；主持中国博士后科学基金面上项目1项，并以主要参与人身份参加国家自然科学基金面上项目2项和吉林省科技发展计划项目3项。
 
-# 🔥 **个人经历**
-- 2018.09 至 2022.7，吉林大学，计算机应用技术，博士，导师：刘衍珩教授
-- 2019.09 至 2020.10，加拿大滑铁卢大学，车辆工程，联合培养博士，导师：Prof. Dongpu Cao
-- 2015.09 至 2018.07，吉林大学，计算机应用技术，博士，导师：刘衍珩教授
-- 2011.09 至 2015.07，吉林大学，软件工程，学士
+# ✈️ **研究方向** 
+- 移动边缘计算
+- 无人机通信与网络
+- 车联网 
+
+# 🎓 **个人经历**
 - 2022.09 至今，吉林大学，吉林大学计算机科学与技术学院，孙庚副教教授，博士后（吉林大学鼎新学者支持计划入选者）
+- 2019.09 至 2020.10，加拿大滑铁卢大学，车辆工程，联合培养博士，导师：Prof. Dongpu Cao
+- 2018.09 至 2022.7，吉林大学，计算机应用技术，博士，导师：刘衍珩教授
+- 2015.09 至 2018.07，吉林大学，计算机应用技术，硕士，导师：刘衍珩教授
+- 2011.09 至 2015.07，吉林大学，软件工程，学士
 
 # 📝 发表文章
 1.  **Zemin Sun**, Geng Sun*, Yanheng Liu, Jian Wang, and Dongpu Cao. [BARGAIN-MATCH: A game theoretical approach for resource allocation and task offloading in vehicular edge computing networks](https://ieeexplore.ieee.org/abstract/document/10024868/). *IEEE Transactions on Mobile Computing*, 23(2), 2024: 1655-1673. **(IF=6.075, CCF-A 类)**
@@ -33,7 +38,7 @@ redirect_from:
 11. Geng Sun, Long He, **Zemin Sun\***, Jiayun Zhang, and Jiahui Li, [Task offloading for post-disaster rescue in vehicular fog computing-assisted UAV networks](https://ieeexplore.ieee.org/abstract/document/10076577/), *IEEE 18th International Conference on Mobility, Sensing and Networking* (*IEEE MSN 2022*), IEEE, 2022. **(CCF-C类会议)**
 12. Ye Wang, Yanheng Liu, **Zemin Sun\***, Lingling Liu, Jiahui Li, and Geng Sun, [Priority-aware task offloading and resource allocation in vehicular edge computing networks](https://ieeexplore.ieee.org/abstract/document/10076601/), *IEEE 18th International Conference on Mobility, Sensing and Networking* (*IEEE MSN 2022*), IEEE, 2022. **(CCF C类会议)**
 
-# 🎖 科研项目
+# 🎖️ 科研项目
 1. 中国博士后基金面上项目，移动边缘网络任务卸载及资源分配弹性协同优化方法研究（2023M731282），8万元（**项目负责人**）
 2. 国家自然科学基金面上项目，5G异构车联网通信质量及安全的博弈理论与关键技术研究（62172186），2022.1-2025.12，58万元（参与者）
 3. 国家自然科学基金面上项目，以用户为中心的情景感知的车载自组网安全和隐私定量评估理论（61711540304），2017-07至2019-06，15万元（参与者）
